@@ -20,22 +20,19 @@ Tutorialspoint over here: [TutorialsPoint JavaScript](http://www.tutorialspoint.
 8. Learn to use some for the language common libraries like this one: [JQuery](https://jquery.com/)
 9. You will need to learn to use some development frameworks like: [Angular.JS](https://www.w3schools.com/angular/default.asp), [Polimer](https://www.polymer-project.org/), [Node.JS](https://www.w3schools.com/nodejs/default.asp)
 10. Learn some more stuff, I mean technologies around JavaScript like [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/default.asp), [SQL (+ try it on some DBs)](https://www.w3schools.com/sql/), [XML](https://www.w3schools.com/xml/default.asp) and [JSON + ReST](https://www.w3schools.com/js/js_json_intro.asp) and [XML+SOAP](https://www.w3schools.com/xml/default.asp) web services (+ try it on some APIs maybe).
-11. Learn to use Code Repositories like Github (https://github.com/) or Gitlab(https://about.gitlab.com/), or just Git, CVS etc.
+11. Learn to use Code Repositories like: [Github](https://github.com/) or [Gitlab](https://about.gitlab.com/), or just learn about how to use over here [Git](https://www.tutorialspoint.com/git/index.htm), CVS etc.
 12. Create your own project - web or mobile application or even create portfolio of applications. 
-13. Learn tools like Jenkins for Continues Integration support (CI)
-14. Learn to be part of development team and work in Agile methodologies(https://www.tutorialspoint.com/agile/), like Scrum and even pair programing (https://en.wikipedia.org/wiki/Pair_programming)
-15. Specialize in a certain areas like Front-end development(https://en.wikipedia.org/wiki/Front-end_web_development), Back-end (https://en.wikipedia.org/wiki/Front_and_back_ends) development or even full stack development, Infrastructure automation etc.
-16. (Optional) To Become specialist and real good software engineer you will need to pass a good intro on Data Structures and Alghorithms like this one, or even better one (https://www.coursera.org/specializations/data-structures-algorithms).
+13. Learn tools like maybe check this tutorial on [Jenkins here](https://www.tutorialspoint.com/jenkins/index.htm) for Continues Integration support (CI)
+14. Learn to be part of development team and work in Agile way of working, maybe check this tutorial here on: [Agile](https://www.tutorialspoint.com/agile/), as well this tutorial for [Scrum](https://www.tutorialspoint.com/scrum/index.htm) and maybe check what is even pair programing here: [Wikipedia Pair Programming](https://en.wikipedia.org/wiki/Pair_programming)
+15. Specialize in a certain areas like [Front-end development](https://en.wikipedia.org/wiki/Front-end_web_development), [Back-end](https://en.wikipedia.org/wiki/Front_and_back_ends) development or even full stack development, Infrastructure automation etc.
+16. (Optional) To Become specialist and real good software engineer you will need to pass a good intro on Data Structures and Alghorithms like this tutorial [Data Structure and Algorithms on TutorialsPoint](https://www.tutorialspoint.com/data_structures_algorithms/index.htm), or even better one like this one in Coursera: [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms).  
 
-Or maybe you prefer Video trainings, that is for free as well, just find some good trainings on the mentioned technologies above in YouTube, and you can start learning, just spend and hour or two a day. Check for example this one bellow for JavaScript:
-JavaScript Crash Course For Beginners: https://www.youtube.com/watch?v=hdI2bqOjy3c
+Or maybe you prefer Video trainings, that is fine as well, and it is for free. Maybe not that effectife as Sololearn and CodeAcademy or W3schools or Tutorialspoint way, because you have the lack of some practice, by only watching the videos. But you can start like this as well, you just need to find some good trainings on the mentioned technologies above in YouTube, and you can start learning, just spend and hour or two a day. 
+Check for example this one bellow for JavaScript: [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)  
 
-Off course you can do it in a classical way and use Books, but that is not for free, neither that effective anymore as using the similar tools as the one above. But if your profile is like that maybe you should find good books on the topics above and start reading and learning. Check this book for example: 
-https://www.amazon.com/Computer-Programming-Beginners-Basics-Javascript-ebook/dp/B077XYHBVR
-Or maybe again, check this course here if you prefer more reading:
-http://jstherightway.org/  
-
-But usually, with some exceptions, that is the way people starting very motivated, buy their books on to given technology, start reading and giving up shortly after. As reading is not that effective for most of the people in comparison to the Applications - web and mobile, plus the tutorials above.
+Off course you can do it in a classical way and use Books, but that is not for free, neither that effective anymore as using the similar tools as the one above. But if your profile is like that maybe you should find good books on the topics above and start reading and learning. Check this book for example: [Computer Programming For Beginners: Learn The Basics of Javascript](https://www.amazon.com/Computer-Programming-Beginners-Basics-Javascript-ebook/dp/B077XYHBVR)
+Or maybe again, check this course here if you prefer more reading: [JavaScript the right way](http://jstherightway.org/)   
+And usually, with some exceptions, buying the Books, is the way people starting very motivated, they buy their books on to given technology, start reading and giving up shortly after. As reading is not that effective for most of the people in comparison to the Applications - web and mobile, plus the tutorials above.
 
 # Explaining a bit the guide  
 How it basically goes with the hardest part, I mean for the points above from 1 to 3. (every step is like a mountain to overcome )

@@ -56,9 +56,9 @@ Anyway it wont happen if you are not dedicated and spend a lot of your free time
 As well have in mind following only the tutorials above (points 1-15), you will not become like Top Software Engineer Master for Google, Amazon or Facebook, because you still will miss the math science, programing algorithms and theories bellow. But you will be able to work as a Junior to medium developer in most of the companies in the market at the moment, and get really good salary. Maybe, actually if you are brave enough you should even start with the deeper stuff you can go to point 16, and after that return to point 1.
 
 
-# All the links again in one place:  
+#### All the links again in one place:  
 
-## Free courses, trainings and tutorials:
+##### Free courses, trainings and tutorials:
 https://www.sololearn.com/Course/JavaScript/
 https://www.w3schools.com/js/ 
 http://www.tutorialspoint.com/javascript
@@ -66,55 +66,55 @@ https://www.codecademy.com/learn/introduction-to-javascript 
 https://www.udemy.com/courses/search/?ref=home&src=ukw&q=java%20script&p=1&price=price-free
 http://jstherightway.org/
 
-## Tools and IDEs:
+##### Tools and IDEs:
 https://code.visualstudio.com/
 https://www.sublimetext.com/
 https://atom.io/
 https://www.eclipse.org/downloads/packages/release/2019-03/r/eclipse-ide-javascript-and-web-developers
 https://notepad-plus-plus.org/
 
-## Coding best practices info:
+##### Coding best practices info:
 https://www.tutorialspoint.com/developers_best_practices/
 
-## JavaScript Libraries:
+##### JavaScript Libraries:
 https://jquery.com/. 
 https://www.polymer-project.org/
 
-## JavaScript Frameworks
+##### JavaScript Frameworks
 https://www.w3schools.com/angular/default.asp
 https://www.w3schools.com/nodejs/default.asp
 https://www.polymer-project.org/
 
 
-## Technologies around JavaScript:
+##### Technologies around JavaScript:
 https://www.w3schools.com/html/ 
 https://www.w3schools.com/css/default.asp
 https://www.w3schools.com/sql/
 https://www.w3schools.com/xml/default.asp
 https://www.w3schools.com/js/js_json_intro.asp 
 
-## Code repositories and CI tools:
+##### Code repositories and CI tools:
 https://www.tutorialspoint.com/git/index.htm
 https://github.com/
 https://about.gitlab.com/
 https://www.tutorialspoint.com/jenkins/index.htm
 
-## Way of working:
+##### Way of working:
 https://www.tutorialspoint.com/agile/
 https://www.tutorialspoint.com/scrum/index.htm
 https://en.wikipedia.org/wiki/Pair_programming
 
-## Types of JavaScript development
+##### Types of JavaScript development
 https://en.wikipedia.org/wiki/Front_and_back_ends
 https://en.wikipedia.org/wiki/Front-end_web_development), 
 
-## Data structures and algorithms:
+##### Data structures and algorithms:
 https://www.tutorialspoint.com/data_structures_algorithms/index.htm
 https://www.coursera.org/specializations/data-structures-algorithms
 
-## Videos:
+##### Videos:
  https://www.youtube.com/watch?v=hdI2bqOjy3c
 (Check the description of the video for more courses)
 
-## Books (well this one is not for free):
+##### Books (well this one is not for free):
 https://www.amazon.com/Computer-Programming-Beginners-Basics-Javascript-ebook/dp/B077XYHBVR

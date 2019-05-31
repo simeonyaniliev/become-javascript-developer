@@ -7,8 +7,8 @@ But let me try to give an example path on how to do that in this short post. And
 
 # The guide  
 So first depends were you are in the moment in your coding skills so far and which language you understand. So lets say you are total beginner and you want to learn Java Script scripting.  It is easy there are so many tools and systems that help and boost you into that direction....  
-  
-1. You can start learning with basic tools like SoloLearn on your phone or on your computer: https://www.sololearn.com/Course/JavaScript/
+
+1. You can start learning with basic tools like [SoloLearn JavaScript training](https://www.sololearn.com/Course/JavaScript/) on your phone or on your computer
 2. You can check online training courses like the one on w3schools: 
 https://www.w3schools.com/js/ 
 or http://www.tutorialspoint.com/javascript

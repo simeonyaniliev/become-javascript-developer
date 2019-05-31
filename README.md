@@ -1,7 +1,7 @@
 # Intro  
 I have been asked how to start learning programing or how to become better in programing? For example with JavaScript. 
 Well there is no like a perfect formula or best way - it is different for everybody. It maybe depends on your current stage in life. If you are young and you have the opportunity to go the university and finish computer science or information technologies - I mean opportunity in terms of time and finances, this is definitely the way to go for you, it will take 4-5 years maybe. But if you already finished university in other discipline, and not satisfied with your current job. Or you do not have university degree at all, but you need better job and salary, than you need to walk into another path to become a software developer with JavaScript.  
-Off course you maybe tried programing in the past and failed, like you thought is too complex and too hard to understand, to setup and to learn etc. Or maybe somebody else told you something like this….  
+Off course you maybe tried programing in the past and failed, like you thought is too complex and too hard to understand, or maybe was too complex to setup and to learn etc. Or maybe somebody else told you something like this….  
 Well I need to tell you that this is not the case anymore. Modern technologies provide easy ways to learn and get experience into software development.  
 But let me try to give an example path on how to do that in this short post. And all the tools and educational materials are for free. You just need some time and dedication. Maybe 6 months of 4-6 hours a day, or 1 year 1-2 hours a day will do the job for you. And you will become software developer, front-end or back-end with JavaScript.  
 

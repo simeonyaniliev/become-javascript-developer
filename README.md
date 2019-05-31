@@ -8,23 +8,18 @@ But let me try to give an example path on how to do that in this short post. And
 # The guide  
 So first depends were you are in the moment in your coding skills so far and which language you understand. So lets say you are total beginner and you want to learn Java Script scripting.  It is easy there are so many tools and systems that help and boost you into that direction....  
 
-1. You can start learning with basic tools like [SoloLearn JavaScript training](https://www.sololearn.com/Course/JavaScript/) on your phone or on your computer
-2. You can check online training courses like the one on w3schools: 
-https://www.w3schools.com/js/ 
-or http://www.tutorialspoint.com/javascript
-3. You can perform some more advanced trainings in code academy as well:
-https://www.codecademy.com/learn/introduction-to-javascript 
-4. You need to learn programing with some IDEs (Integrated Development Environments) - Sublime, MS Visual Studio Code, IntelliJ IDEA, Eclipse, others (vRO for Infra JavaScript Automation).
-https://code.visualstudio.com/
-https://www.jetbrains.com/webstorm/
-https://www.eclipse.org/ide/
-5. Find some good coarses in platforms like udemy:https://www.udemy.com/courses/search/?ref=home&src=ukw&q=java%20script&p=1&price=price-free
-6. Or educational websites like this one:
-http://jstherightway.org/
-7. To Mature with coding and development best practices and recommendations (https://www.tutorialspoint.com/developers_best_practices/).
-8. Learn to use some for the language common libraries like https://jquery.com/.
-9. To Learn to use some development frameworks - Angular.JS, Polimer (https://www.polymer-project.org/), Node.JS
-10. Learn some more stuff around like HTML(https://www.w3schools.com/html/), CSS (https://www.w3schools.com/css/default.asp), SQL (+ try it on some DBs), XML(https://www.w3schools.com/xml/default.asp) and JSON + ReST and XML+SOAP web services (+ try it on some APIs)
+1. You can start learning with basic tools or applications like Sololearn over here: [SoloLearn JavaScript training](https://www.sololearn.com/Course/JavaScript/) on your phone or on your computer.
+2. You can check online training courses like the one on W3schools over here: [W3schools JavaScript training](https://www.w3schools.com/js/) or the tutorials from 
+Tutorialspoint over here: [TutorialsPoint JavaScript](http://www.tutorialspoint.com/javascript)
+3. You can perform some more advanced trainings in Code academy as well, over here: 
+[Code academy - Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+4. Find some good coarses in platforms like Udemy over here: [Udemy free JavaScript Courses](https://www.udemy.com/courses/search/?ref=home&src=ukw&q=java%20script&p=1&price=price-free)
+5. Or educational websites like this one: [JavaScript the right way](http://jstherightway.org/)
+6. You need to learn how to program with some IDEs (Integrated Development Environments), like this one here: [MS Visual Studio Code](https://code.visualstudio.com/), [Sublime](https://www.sublimetext.com/), [Atom](https://atom.io/), [Eclipse for JavaScript](https://www.eclipse.org/downloads/packages/release/2019-03/r/eclipse-ide-javascript-and-web-developers), [Notepad++](https://notepad-plus-plus.org/) maybe others (vRO for Infra JavaScript Automation).
+7. To Mature with coding and development best practices and recommendations like this one here: [Developers best practices on Tutorials Point](https://www.tutorialspoint.com/developers_best_practices/).
+8. Learn to use some for the language common libraries like this one: [JQuery](https://jquery.com/)
+9. You will need to learn to use some development frameworks like: [Angular.JS](https://www.w3schools.com/angular/default.asp), [Polimer](https://www.polymer-project.org/), [Node.JS](https://www.w3schools.com/nodejs/default.asp)
+10. Learn some more stuff, I mean technologies around JavaScript like [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/default.asp), [SQL (+ try it on some DBs)](https://www.w3schools.com/sql/), [XML](https://www.w3schools.com/xml/default.asp) and [JSON + ReST](https://www.w3schools.com/js/js_json_intro.asp) and [XML+SOAP](https://www.w3schools.com/xml/default.asp) web services (+ try it on some APIs maybe).
 11. Learn to use Code Repositories like Github (https://github.com/) or Gitlab(https://about.gitlab.com/), or just Git, CVS etc.
 12. Create your own project - web or mobile application or even create portfolio of applications. 
 13. Learn tools like Jenkins for Continues Integration support (CI)

@@ -23,7 +23,7 @@ Tutorialspoint over here: [TutorialsPoint JavaScript](http://www.tutorialspoint.
 11. Learn to use Code Repositories like: [Github](https://github.com/) or [Gitlab](https://about.gitlab.com/), or just learn about how to use Git over here [in this Git tutorial](https://www.tutorialspoint.com/git/index.htm), CVS etc.
 12. Create your own project - web or mobile application or even create portfolio of applications.  
 **(Somewhere over here you can start searching and applying for your first JavaScript Development role as a Junior developer)**  
-13. Learn tools like maybe check this tutorial on [Jenkins here](https://www.tutorialspoint.com/jenkins/index.htm) for Continues Integration support (CI)
+13. Learn tools like maybe check this tutorial on [Jenkins here](https://www.tutorialspoint.com/jenkins/index.htm) for Continues Integration support (CI). As well tools like NPM (Node Package Manager), check it out over here: [Official website](https://www.npmjs.com/get-npm)
 14. Learn what is to be part of development team and how to work in Agile way of working, maybe check this tutorial here on: [Agile](https://www.tutorialspoint.com/agile/), as well this tutorial for [Scrum](https://www.tutorialspoint.com/scrum/index.htm) and maybe check what is even pair programing here: [Wikipedia Pair Programming](https://en.wikipedia.org/wiki/Pair_programming)
 15. Specialize in a certain areas like [Front-end development](https://en.wikipedia.org/wiki/Front-end_web_development), [Back-end](https://en.wikipedia.org/wiki/Front_and_back_ends) development or even full stack development, Infrastructure automation etc.
 16. (Optional OR Actually Some people start with this one) To Become specialist and real good software engineer you will need to pass a good intro on Data Structures and Alghorithms like this tutorial [Data Structure and Algorithms on TutorialsPoint](https://www.tutorialspoint.com/data_structures_algorithms/index.htm), or even better one like this one in Coursera: [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms).  
@@ -96,6 +96,7 @@ https://www.tutorialspoint.com/git/index.htm
 https://github.com/
 https://about.gitlab.com/
 https://www.tutorialspoint.com/jenkins/index.htm
+https://www.npmjs.com/get-npm
 
 ##### Way of working:
 https://www.tutorialspoint.com/agile/

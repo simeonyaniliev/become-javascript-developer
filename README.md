@@ -46,11 +46,11 @@ Points 1 to 5 in details: 
 	You will learn to use more advanced algorithms and code flows.
 	You will are able to read code and debug code.
 	You are able to write more and more complex code.
-	It Becomes an intuition to you :). - here you are ready to start working on professional level.
+	It Becomes an intuition to you :). - here you are ready to start working on professional level.  
  
 For the points in the main list, after point 6 to 15, you do not have a choice, this is part of the developers daily life, the team you join will lead you what to use. No other way. But if you overcome points to 5, you can really start developing pretty easy. You can off course in advance spend some time and to read about or to try the tools, frameworks or technologies I mention in points 6 to 14.  
  
-Anyway it won't happen, you won't become JavaScript developer if you are not dedicated and if you don't spend a lot of your free time. As well you should never give up. It is really hard, but if you do not give up, you will get there. For some people it is easier and faster, for some people is harder and takes a bit more time. The secret is never to give up, and to be brave and keep trying, reading, excersing and searching and applying for jobs.
+Anyway it won't happen, you won't become JavaScript developer if you are not dedicated and if you don't spend a lot of your free time. As well you should never give up. It is really hard, but if you do not give up, you will get there. For some people it is easier and faster, for some people is harder and takes a bit more time. The secret is never to give up, and to be brave and keep trying, reading, excersing and searching and applying for jobs.  
 
 As well have in mind, that following only the tutorials above (points 1-15), you will not become like Top Software Engineer for Google, Amazon or Facebook, because you still will miss the math science, and programing algorithms and theories bellow. But you will be able to work as a Junior to medium developer in most of the companies in the market at the moment, and get really good salary. And later on get deeper dive into that as well. Or Maybe, actually if you are brave enough you should even start with the deeper stuff you can go to point 16, and after that return to point 1.  
 

@@ -31,9 +31,10 @@ Tutorialspoint over here: [TutorialsPoint JavaScript](http://www.tutorialspoint.
 Or maybe you prefer Video trainings, that is fine as well, and it is for free. Maybe not that effectife as Sololearn and CodeAcademy or W3schools or Tutorialspoint way, because you have the lack of some practice, by only watching the videos. But you can start like this as well, you just need to find some good trainings on the mentioned technologies above in YouTube, and you can start learning, just spend and hour or two a day. 
 Check for example this one bellow for JavaScript: [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)  
 
-Off course you can do it in a classical way and use Books, but that is not for free, neither that effective anymore as using the similar tools as the one above. But if your profile is like that maybe you should find good books on the topics above and start reading and learning. Check this book for example: [Computer Programming For Beginners: Learn The Basics of Javascript](https://www.amazon.com/Computer-Programming-Beginners-Basics-Javascript-ebook/dp/B077XYHBVR)
-Or maybe again, check this course here if you prefer more reading: [JavaScript the right way](http://jstherightway.org/)   
-And usually, with some exceptions, buying the Books, is the way people starting very motivated, they buy their books on to given technology, start reading and giving up shortly after. As reading is not that effective for most of the people in comparison to the Applications - web and mobile, plus the tutorials above.
+Off course you can do it in a classical way and use Books, but that is not for free, neither that effective anymore as using the similar tools as the one above. But if your profile is like that maybe you should find good books on the topics above and start reading and learning. Check this book for example: [Computer Programming For Beginners: Learn The Basics of Javascript](https://www.amazon.com/Computer-Programming-Beginners-Basics-Javascript-ebook/dp/B077XYHBVR)  
+Or maybe again, check this course here if you prefer more reading: [JavaScript the right way](http://jstherightway.org/)  
+
+And usually, with some exceptions, buying the Books, is the way people starting very motivated, they buy their books on to given technology, start reading and giving up shortly after. As reading is not that effective for most of the people in comparison to the Applications - web and mobile, plus the tutorials above.  
 
 # Explaining a bit the guide  
 How it basically goes with the hardest part, I mean for the points above from 1 to 3. (every step is like a mountain to overcome )
